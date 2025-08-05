@@ -1,0 +1,15 @@
+
+    video {
+      border-radius: 1rem;
+      width: 100%;
+      max-width: 480px;
+      height: auto;
+      margin: 0 auto;
+    }
+    .mood-icon {
+      font-size: 5rem;
+      transition: transform 0.3s ease;
+    }
+    .mood-icon:hover {
+      transform: scale(1.1);
+    }
